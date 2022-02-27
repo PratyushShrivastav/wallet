@@ -1,0 +1,4 @@
+2022-02-27 15:35:29.572  WARN LAPTOP-M11050IF --- [nio-8083-exec-4] c.p.w.s.UserService                      : No transaction present for the user with userID6
+2022-02-27 15:35:37.698  INFO LAPTOP-M11050IF --- [ionShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-02-27 15:35:37.701  INFO LAPTOP-M11050IF --- [ionShutdownHook] c.z.h.HikariDataSource                   : HikariPool-1 - Shutdown initiated...
+2022-02-27 15:35:37.712  INFO LAPTOP-M11050IF --- [ionShutdownHook] c.z.h.HikariDataSource                   : HikariPool-1 - Shutdown completed.

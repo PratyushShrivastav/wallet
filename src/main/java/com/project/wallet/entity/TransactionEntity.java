@@ -1,7 +1,9 @@
 package com.project.wallet.entity;
 
 
+import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import javax.persistence.Column;
@@ -13,6 +15,8 @@ import javax.persistence.Table;
 @Table(name = "transaction")
 @Getter
 @Setter
+@AllArgsConstructor
+@NoArgsConstructor
 public class TransactionEntity {
 
     @Id
